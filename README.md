@@ -20,10 +20,6 @@ Web Food Ordering is an advanced online food ordering system built using Spring 
   - **DBMS:** PostgreSQL
   - **Host:** AWS RDS
 
-- **Frontend:**
-  - **Library:** ReactJS
-  - **UI Framework:** Ant Design
-
 - **Containerization and Deployment:**
   - **Containerization:** Docker
   - **Registry:** AWS ECR
